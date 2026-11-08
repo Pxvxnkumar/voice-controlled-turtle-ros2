@@ -1,0 +1,9 @@
+.venv/
+.venv-*/
+.eval-venv/
+__pycache__/
+*.pyc
+.env
+*.wav
+voice_dataset/
+*.pkl
